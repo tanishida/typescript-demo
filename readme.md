@@ -1,1 +1,1 @@
-https://tanishida.github.io/typescript-demo/#/login
+https://tanishida.github.io/typescript-demo
